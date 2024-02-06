@@ -1,0 +1,35 @@
+(ArtificialLife) C:\Users\ybxYB\OneDrive\Northwestern\WINTER 2024\COMP_SCI_396\src\NU-CS396-ALife\Homework 3>python generator.py
+Body 0 Fitness: 0.5236472724844639
+Body 1 Fitness: 0.26944157819126974
+Body 2 Fitness: 0.45910494630694243
+Body 3 Fitness: 0.3655183646565304
+Body 4 Fitness: 0.2933176221468865
+Body 5 Fitness: 0.23879153342233972
+Body 6 Fitness: 0.37187980530502074
+Body 7 Fitness: 0.2972414668913894
+Body 8 Fitness: 0.6574661452783452
+Body 9 Fitness: 0.13984246915050666
+
+(ArtificialLife) C:\Users\ybxYB\OneDrive\Northwestern\WINTER 2024\COMP_SCI_396\src\NU-CS396-ALife\Homework 3>python generator.py
+Body 0 Fitness: 0.17162898372144328
+Body 1 Fitness: 0.14856634154331205
+Body 2 Fitness: 0.34238283568377914
+Body 3 Fitness: 0.3906176079277048
+Body 4 Fitness: 0.2941576062938609
+Body 5 Fitness: 0.15100929079691536
+Body 6 Fitness: 0.8783642677378548
+Body 7 Fitness: 0.3075790112814516
+Body 8 Fitness: 0.18305378999515656
+Body 9 Fitness: 0.4522051580224493
+
+(ArtificialLife) C:\Users\ybxYB\OneDrive\Northwestern\WINTER 2024\COMP_SCI_396\src\NU-CS396-ALife\Homework 3>python generator.py
+Body 0 Fitness: 0.4135761719768517
+Body 1 Fitness: 0.5873435292850423
+Body 2 Fitness: 0.08595004339350894
+Body 3 Fitness: 0.40177949903233506
+Body 4 Fitness: 0.8563471464388663
+Body 5 Fitness: 0.38463515790488106
+Body 6 Fitness: 0.2422972771497091
+Body 7 Fitness: 0.5522774280095939
+Body 8 Fitness: 0.24112747747674151
+Body 9 Fitness: 0.9473473668262336
