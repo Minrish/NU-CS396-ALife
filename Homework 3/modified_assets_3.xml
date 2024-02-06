@@ -11,13 +11,13 @@
 
             <body name="wing1" pos=".5 -.3 0" euler="0 -90 0">
                 <joint name="joint1" type="hinge" axis="0 1 0" pos="0 0 .25" range="-45 45" />
-                <geom type="box" size=".05 .05 0.41967579375509234" rgba="1 1 1 1" mass="1.2955210331253557" />
+                <geom type="box" size=".05 .05 0.299946073508193" rgba="1 1 1 1" mass="1.423211738350799" />
 
             </body>
 
             <body name="wing2" pos="-.5 -.3 0" euler="0 90 0">
                 <joint name="joint2" type="hinge" axis="0 1 0" pos="0 0 .25" range="-45 45" />
-                <geom type="box" size=".05 .05 0.27990666847023554" rgba="1 1 1 1" mass="0.7101357881762649" />
+                <geom type="box" size=".05 .05 0.41996216497580185" rgba="1 1 1 1" mass="0.5619004048969107" />
 
             </body>
         </body>
