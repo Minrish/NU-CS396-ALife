@@ -1,0 +1,31 @@
+<mujoco>
+    <worldbody>
+        <light diffuse=".5 .5 .5" pos="0 0 2" dir="0 -1 0" />
+        <geom type="plane" size="10 10 0.1" rgba="0.5 0.7 1 1" />
+
+        <body name="flappybird" pos="0 0 1" euler="0 0 0">
+            <joint type="free" axis="0 0 0" pos="0 0 0" />
+            <body name="body" pos="0 0 0" euler="0 0 0">
+                <geom type="box" size="0.3411553646452717 0.3808522964557395 0.18302968738890985" rgba="1 1 1 1" mass="0.01121710663151504" />
+            </body>
+
+            <body name="wing1" pos=".5 -.3 0" euler="0 -90 0">
+                <joint name="joint1" type="hinge" axis="0 1 0" pos="0 0 .25" range="-45 45" />
+                <geom type="box" size="0.03469032000037834 0.0704981197379702 0.4290969668276114" rgba="1 1 1 1" mass="0.60198956978099" />
+            </body>
+
+            <body name="wing2" pos="-.5 -.3 0" euler="0 90 0">
+                <joint name="joint2" type="hinge" axis="0 1 0" pos="0 0 .25" range="-45 45" />
+                <geom type="box" size="0.04338283294081801 0.041692231362024115 0.17055915060951382" rgba="1 1 1 1" mass="0.5766347097039373" />
+            </body>
+            
+        </body>
+    </worldbody>
+
+    <actuator>
+        <motor joint="joint1" name="m1" gear="8.589053311246168" ctrllimited="true" ctrlrange="-5 5" />
+        <motor joint="joint2" name="m2" gear="12.916404760200958" ctrllimited="true" ctrlrange="-5 5" />
+
+</actuator>
+
+</mujoco>

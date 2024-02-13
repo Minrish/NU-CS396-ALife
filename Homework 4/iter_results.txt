@@ -1,0 +1,70 @@
+(ArtificialLife) C:\Users\ybxYB\OneDrive\Northwestern\WINTER 2024\COMP_SCI_396\src\NU-CS396-ALife\Homework 4>python generator.py
+Generation 1:
+Body 0 Fitness: -9.956615381579946
+Body 1 Fitness: -9.892829215607655
+Body 2 Fitness: -10.289593469151695
+Body 3 Fitness: -9.478595641687232
+Body 4 Fitness: -10.019118674806766
+Body 5 Fitness: -9.561454039166085
+Body 6 Fitness: -10.067681098732233
+Body 7 Fitness: -9.56355357384144
+Body 8 Fitness: -8.513074001569528
+Body 9 Fitness: -9.369918871397015
+New best fitness due to mutation: -8.513074001569528, adopting child modified_assets_gen0_body8.xml as new base.
+Generation 2:
+Body 0 Fitness: -7.6526070075743355
+Body 1 Fitness: -6.742991748706887
+Body 2 Fitness: -8.549862870077517
+Body 3 Fitness: -7.752590150498149
+Body 4 Fitness: -9.010036022631192
+Body 5 Fitness: -8.151341733157153
+Body 6 Fitness: -9.432935819760882
+Body 7 Fitness: -7.369981360463112
+Body 8 Fitness: -6.436429998033649
+Body 9 Fitness: -6.745255131094689
+New best fitness due to mutation: -6.436429998033649, adopting child modified_assets_gen1_body8.xml as new base.
+Generation 3:
+Body 0 Fitness: -6.829833043856086
+Body 1 Fitness: -7.892049573527314
+Body 2 Fitness: -7.791587208495757
+Body 3 Fitness: -7.561387719703266
+Body 4 Fitness: -7.597452784040876
+Body 5 Fitness: -7.251895111049452
+Body 6 Fitness: -7.326044953392637
+Body 7 Fitness: -4.255438855365782
+Body 8 Fitness: -9.3238176403974
+Body 9 Fitness: -7.111697107118856
+New best fitness due to mutation: -4.255438855365782, adopting child modified_assets_gen2_body7.xml as new base.
+Generation 4:
+Body 0 Fitness: -7.309166893324198
+Body 1 Fitness: -8.505195423797955
+Body 2 Fitness: -6.707111653550836
+Body 3 Fitness: -5.058975223874537
+WARNING:absl:Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.6060.
+Body 4 Fitness: -10623.081861389992
+WARNING:absl:Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.9740.
+Body 5 Fitness: -262.86258435493386
+Body 6 Fitness: -5.7199844639996105
+Body 7 Fitness: -5.771847017066321
+Body 8 Fitness: -5.150337022880951
+Body 9 Fitness: -2.136617274568529
+New best fitness due to mutation: -2.136617274568529, adopting child modified_assets_gen3_body9.xml as new base.
+Generation 5:
+Body 0 Fitness: -3.693729698185834
+WARNING:absl:Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.9900.
+Body 1 Fitness: 18908.347434488736
+Body 2 Fitness: -7.597361797754654
+Body 3 Fitness: -3.2973718864806623
+WARNING:absl:Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.8540.
+Body 4 Fitness: -851.892608071576
+WARNING:absl:Nan, Inf or huge value in QACC at DOF 1. The simulation is unstable. Time = 0.8500.
+Body 5 Fitness: 332.9146055140763
+WARNING:absl:Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.8840.
+Body 6 Fitness: 13945.672971134434
+WARNING:absl:Nan, Inf or huge value in QACC at DOF 4. The simulation is unstable. Time = 0.6940.
+Body 7 Fitness: -507.12606206443417
+WARNING:absl:Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.7880.
+Body 8 Fitness: 89559.82011578201
+WARNING:absl:Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.3800.
+Body 9 Fitness: 1109.6172370771546
+New best fitness due to mutation: 89559.82011578201, adopting child modified_assets_gen4_body8.xml as new base.

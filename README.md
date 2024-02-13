@@ -28,7 +28,7 @@ This repository contains the homework assignments for the NU-CS396-ALife course,
 - **Simulation Execution and Results**:
   - Run the generator script for each batch of configurations:
     ```
-    (ArtificialLife) C:\Users\ybxYB\OneDrive\Northwestern\WINTER 2024\COMP_SCI_396\src\NU-CS396-ALife\Homework 3> python generator.py
+    python generator.py
     ```
   - Sample output (showing fitness scores for different bodies):
     ```
@@ -43,3 +43,21 @@ This repository contains the homework assignments for the NU-CS396-ALife course,
     ...
     Body 9 Fitness: 0.947
     ```
+
+### Homework 4: Evolutionary Mutations and Stability
+
+- **Objective**: Implement mutations in the physical attributes of the simulated bodies to explore the impact on fitness, focusing on mutations to body and wing sizes and masses.
+- **Tasks**:
+  1. Introduce mutations to the body and wing sizes and masses.
+  2. Evaluate the impact of these mutations on the fitness scores across generations.
+  3. Address simulation stability issues arising from extreme mutations.
+
+- **Simulation Execution and Results**:
+  - Run the generator script for evolutionary mutations:
+    ```
+    python generator.py
+    ```
+  - Observed results across 5 generations showed progressive improvements in fitness scores, with the best fitness due to mutations being notably higher in each subsequent generation. However, extreme mutations led to simulation instability in some instances, evidenced by `Nan`, `Inf`, or huge value warnings from the physics engine. These issues underscore the delicate balance between exploring the parameter space for optimal configurations and maintaining realistic, stable simulations.
+
+- **Commentary on Simulation Stability**:
+  - The evolutionary process led to both impressive improvements in fitness scores and instances of simulation instability. Particularly in Generation 4 and Generation 5, we observed `Nan`, `Inf`, or huge value warnings, highlighting the challenges of managing mutation magnitudes. This serves as a critical reminder of the importance of constraining mutations within realistic bounds and implementing mechanisms to detect and mitigate simulation instability. Future work will focus on refining mutation strategies to enhance simulation robustness while continuing to explore the parameter space for performance optimization. These issues will be addressed and hopefully resovled in Homework 5 submission. 
