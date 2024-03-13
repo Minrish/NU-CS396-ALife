@@ -43,8 +43,8 @@ The fitness log for five generations indicated a positive trend in the entities'
 
 The graphical representation of fitness across generations showed a clear upward trajectory, confirming the effectiveness of the evolutionary principles applied.
 
-![Best Fitness per Generation](Final Project/Figure_1.png)
-![alt text](https://github.com/Minrish/NU-CS396-ALife/blob/main/Figure_1.png?raw=true)
+[![Best Fitness per Generation](Final Project/Figure_1.png)
+![alt text](https://github.com/Minrish/NU-CS396-ALife/blob/main/Figure_1.png?raw=true)](https://github.com/Minrish/NU-CS396-ALife/blob/main/Final%20Project/Figure_1.png)
 
 ## Evolutionary Adaptations
 
