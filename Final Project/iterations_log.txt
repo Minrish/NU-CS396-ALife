@@ -1,0 +1,60 @@
+Generation 1:
+Body 0 Fitness: -6.530561614558056
+Body 1 Fitness: -6.717789302932814
+Body 2 Fitness: -6.11638880739684
+Body 3 Fitness: -6.615343684608501
+Body 4 Fitness: -4.984528236012946
+Body 5 Fitness: -5.291637493725737
+Body 6 Fitness: -6.658225294748624
+Body 7 Fitness: -6.3502640516787245
+Body 8 Fitness: -5.221429577260107
+Body 9 Fitness: -7.534531093271917
+New best fitness due to mutation: -4.984528236012946, adopting child modified_assets_gen0_body4.xml as new base.
+Generation 2:
+Body 0 Fitness: -5.731766042028534
+Body 1 Fitness: -6.478817975153949
+Body 2 Fitness: -6.463261464566097
+Body 3 Fitness: -4.492271299467937
+Body 4 Fitness: -7.162543121862406
+Body 5 Fitness: -3.146160345965381
+Body 6 Fitness: -6.598149698974467
+Body 7 Fitness: -5.285881076718259
+Body 8 Fitness: -4.587229693987234
+Body 9 Fitness: -6.579737469503075
+New best fitness due to mutation: -3.146160345965381, adopting child modified_assets_gen1_body5.xml as new base.
+Generation 3:
+Body 0 Fitness: -4.5971569776354855
+Body 1 Fitness: -3.9611699536290637
+Body 2 Fitness: -5.218397390627651
+Body 3 Fitness: -3.4687161404397866
+Body 4 Fitness: -1.9521462183138318
+Body 5 Fitness: -4.312753901627843
+Body 6 Fitness: -4.958143152831706
+Body 7 Fitness: -6.297239229149964
+Body 8 Fitness: -4.661827178633263
+Body 9 Fitness: -5.42353396882031
+New best fitness due to mutation: -1.9521462183138318, adopting child modified_assets_gen2_body4.xml as new base.
+Generation 4:
+Body 0 Fitness: -3.24472163025053
+Body 1 Fitness: -2.5297824859092852
+Body 2 Fitness: -0.373258876641378
+Body 3 Fitness: -3.1823318749484013
+Body 4 Fitness: 1.8759172245208866
+Body 5 Fitness: -1.3606412955189207
+Body 6 Fitness: -4.139005588591052
+Body 7 Fitness: -2.34891662659113
+Body 8 Fitness: -5.0781546941024125
+Body 9 Fitness: -2.539589750235546
+New best fitness due to mutation: 1.8759172245208866, adopting child modified_assets_gen3_body4.xml as new base.
+Generation 5:
+Body 0 Fitness: 0.821106837693268
+Body 1 Fitness: -0.7632450935696014
+Body 2 Fitness: 4.119528232417903
+Body 3 Fitness: -1.2194802049376623
+Body 4 Fitness: -1.9804256553931392
+Body 5 Fitness: -1.049576205205236
+Body 6 Fitness: 0.444610519078136
+Body 7 Fitness: 0.3141481090554592
+Body 8 Fitness: 0.4849508010082495
+Body 9 Fitness: -0.2772161399584725
+New best fitness due to mutation: 4.119528232417903, adopting child modified_assets_gen4_body2.xml as new base.
